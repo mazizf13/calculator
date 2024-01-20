@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #5ee6bf;
+}
+
+.main {
+  background-color: black;
+  color: #fff;
+  height: auto;
+  width: 270px;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  margin: auto;
+}
+
+.btn {
+  height: auto;
+  width: 40px;
+}
